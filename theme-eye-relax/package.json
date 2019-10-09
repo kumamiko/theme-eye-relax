@@ -1,0 +1,22 @@
+{
+    "name": "theme-eye-relax",
+    "displayName": "Eye Relax Theme",
+    "description": "Relax your eyes.",
+    "publisher": "kumamiko",
+    "version": "0.0.2",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Eye Relax Theme",
+                "uiTheme": "vs",
+                "path": "./themes/eye-relax-color-theme.json"
+            }
+        ]
+    }
+}
